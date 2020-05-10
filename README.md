@@ -1,8 +1,8 @@
 # cartpole-RL
 
-This's a simple project using Reinforcement Learning to play CartPole-v1, from OpenAi gym.
+This's a simple project using Reinforcement Learning to play CartPole-v1, from OpenAi gym. 😎
 
-I really recommend use a virtual environment to install all the requisites.
+I really recommend use a **virtual environment** to install all the requisites.
 
 ## Requisites:
 
@@ -12,7 +12,7 @@ I really recommend use a virtual environment to install all the requisites.
 
 ## Running
 
-To run the project, use `python main.py.`
+To run the project, use `python main.py`
 
 ## Results
 
