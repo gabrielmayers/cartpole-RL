@@ -18,7 +18,7 @@ To run the project, use `python main.py.`
 
 In this challenge, I got a Average Score of 261.93!
 
-![GScore in CartPole](Score.png)
+![GScore in CartPole](score.png)
 
 ## Playing like a Semi-Pro ;)
 
